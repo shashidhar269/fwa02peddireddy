@@ -13,8 +13,8 @@
     "morgan": "^1.10.0",
     "pug": "^3.0.2"
   },
-  "description": "Sashidhar Reddy PeddiReddy Webapps Assignment",
+  "description": "Shashidhar Reddy PeddiReddy Webapps Assignment",
   "main": "app.js",
-  "author": "Sashidhar Reddy Peddireddy",
+  "author": "Shashidhar Reddy Peddireddy",
   "license": "ISC"
 }
